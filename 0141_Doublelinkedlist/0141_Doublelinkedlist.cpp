@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-Struct Node
+struct Node
 {
-
-}
+	int noMhs;
+};
