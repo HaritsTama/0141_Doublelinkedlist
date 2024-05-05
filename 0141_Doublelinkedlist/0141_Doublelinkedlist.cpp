@@ -233,7 +233,7 @@ int main()
 		}
 		catch (exception& e)
 		{
-			cout << "Chek for the values entered." << endl;
+			cout << "Check for the values entered." << endl;
 		}
 	}
 }
